@@ -14,7 +14,7 @@ prerequist:
   opencv4.x
   
   eigen3.x
-  
+  c++17 compiler
 demo:
 
     
