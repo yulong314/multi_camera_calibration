@@ -1,4 +1,4 @@
-refactored from ccalib module of opencv-contrib. with additional functionality especially "double-side pattern" and a hundred times faster.
+refactored from ccalib module of opencv-contrib. with additional functionality especially "double-side pattern" and is a hundred times faster.
 
 capable of calibrate multicamera from any pattern especially ChessBoard pattern.
 
