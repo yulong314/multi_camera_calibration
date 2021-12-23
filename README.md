@@ -10,7 +10,11 @@ support calibrate multicamera with  double-side pattern
 
 
 prerequist:
+
   opencv4.x
+  
   eigen3.x
+  
 demo:
+
     
