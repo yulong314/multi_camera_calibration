@@ -7,3 +7,10 @@ support "Multicamera rig calibration by double-sided thick checkerboard" :
 support calibrate double-side pattern itself
 
 support calibrate multicamera with  double-side pattern
+
+
+prerequist:
+  opencv4.x
+  eigen3.x
+demo:
+    
